@@ -2,4 +2,3 @@
 git
 ruby
 python
-java
