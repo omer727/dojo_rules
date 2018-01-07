@@ -2,5 +2,5 @@
 git
 ruby
 python
-I love Ruby and JavaScript!
+-I love Ruby and JavaScript!
 
